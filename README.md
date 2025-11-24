@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="left">
 
 <table>
   <tr>
@@ -11,33 +10,15 @@
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
       <br>C#
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt=Nodejs width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
      <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
   </tr>
-  <tr>
-    <!-- <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td> -->
-  </tr>
 </table>
-
 </div>
+
+> [!IMPORTANT]  
+> An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius.
+>
+>(С) Terry Davis
